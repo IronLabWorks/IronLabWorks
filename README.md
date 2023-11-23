@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-# Ironhack Data Analytics & Machine Learning Organization (October - December 2023)
+# Ironhack Data Analytics Organization (October - December 2023)
 
 Welcome to the GitHub organization dedicated to showcasing the projects I completed during my Data Analytics and Machine Learning course at Ironhack, from the 8th of October to the 8th of December, 2023.
 
