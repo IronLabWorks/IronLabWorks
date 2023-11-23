@@ -2,7 +2,7 @@
 
 # Ironhack Data Analytics Organization (October - December 2023)
 
-Welcome to the GitHub organization dedicated to showcasing the projects I completed during my Data Analytics and Machine Learning course at Ironhack, from the 8th of October to the 8th of December, 2023.
+Welcome to the GitHub organization dedicated to showcasing the projects I completed during my Data Analytics course at Ironhack, from the 8th of October to the 8th of December, 2023.
 
 ## About This Organization
 This organization serves as a comprehensive hub for my learning journey at Ironhack. It houses a series of repositories, each representing a different lab or project I worked on, focusing primarily on data analytics and machine learning. These repositories collectively reflect the growth and skills I developed in various tools, technologies, and methodologies essential for a career in these fields.
